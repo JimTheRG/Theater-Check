@@ -24,10 +24,8 @@
 
 ### 2. Εκτέλεση Backend (Server)
 1. Ανοίξτε ένα νέο παράθυρο **PowerShell** ή **Command Prompt**.
-2. Μεταβείτε στον φάκελο του backend:
-   ```powershell
-   cd C:/Users/Jim/AndroidStudioProjects/TheaterCheck/backend
-   ```
+2. Μεταβείτε στον φάκελο του backend με την εντολη cd
+   
 3. Εγκαταστήστε τις απαραίτητες βιβλιοθήκες (την πρώτη φορά μόνο):
    ```powershell
    npm install
@@ -40,10 +38,8 @@
 
 ### 3. Εκτέλεση Frontend (Application)
 1. Ανοίξτε ένα **δεύτερο, ξεχωριστό παράθυρο PowerShell**.
-2. Μεταβείτε στον φάκελο του frontend:
-   ```powershell
-   cd C:/Users/Jim/AndroidStudioProjects/TheaterCheck/frontend
-   ```
+2. Μεταβείτε στον φάκελο του frontend με την εντολη cd
+   
 3. Εγκαταστήστε τις βιβλιοθήκες:
    ```powershell
    npm install
